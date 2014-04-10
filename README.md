@@ -1,5 +1,6 @@
 # phonegap-plugin-wizCanvas
 
+- iOS only fork
 - PhoneGap Version : 3.3
 - last update : 26/02/2014
 
@@ -9,12 +10,12 @@ PhoneGap plugin for creating and manipulating native canvas without UIWebView fo
 
 ## Install (with Plugman) 
 
-	cordova plugin add https://github.com/Wizcorp/phonegap-plugin-wizCanvas
+	cordova plugin add https://github.com/bostondv/phonegap-plugin-wizCanvas
 	cordova build
 	
 	< or >
 	
-	phonegap local plugin add https://github.com/Wizcorp/phonegap-plugin-wizCanvas
+	phonegap local plugin add https://github.com/bostondv/phonegap-plugin-wizCanvas
 	phonegap build
 
 ## Booting

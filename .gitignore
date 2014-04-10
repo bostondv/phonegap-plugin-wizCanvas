@@ -9,13 +9,3 @@ build/
 *.perspectivev3
 
 xcuserdata
-
-# Android & Intelij files
-.idea/
-bin/
-gen/
-*.iml
-*.iws
-out/
-local.properties
-log/
